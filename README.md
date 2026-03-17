@@ -118,7 +118,7 @@ I'm a **Data Scientist and Researcher** currently completing my **Master's in Da
 
 - 🌐 Portfolio: [harshmalviya.com](https://harshmalviya.com)
 - 💼 LinkedIn: [linkedin.com/in/harsh-malviya](https://www.linkedin.com/in/harsh-malviya/)
-- 📧 Email: harsh@harshmalviya.com
+- 📧 Email: [harsh.alokmalviya@gmail.com](mailto:harsh.alokmalviya1@gmail.com)
 
 ---
 
