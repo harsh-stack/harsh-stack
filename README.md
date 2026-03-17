@@ -1,15 +1,8 @@
-<![CDATA[<h1 align="center">Hi, I'm Harsh Malviya 👋</h1>
+# Hi, I'm Harsh Malviya 👋
 
-<p align="center">
-  <b>MS Data Science @ UMass Dartmouth</b> &nbsp;|&nbsp; Geospatial • Network Analysis • ML &nbsp;|&nbsp; Published Researcher &nbsp;|&nbsp; PhD Applicant
-</p>
+**MS Data Science @ UMass Dartmouth  |  Geospatial • Network Analysis • ML  |  Published Researcher  |  PhD Applicant**
 
-<p align="center">
-  <a href="https://harshmalviya.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-harshmalviya.com-blue?style=flat-square&logo=google-chrome" /></a>
-  <a href="mailto:harsh@harshmalviya.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/harsh-malviya/"><img src="https://img.shields.io/badge/LinkedIn-Harsh%20Malviya-0077B5?style=flat-square&logo=linkedin" /></a>
-  <img src="https://komarev.com/ghpvc/?username=harsh-stack&style=flat-square&color=green" alt="Profile Views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=harsh-stack&style=flat-square&color=blue)
 
 ---
 
@@ -34,6 +27,10 @@ I'm a **Data Scientist and Researcher** currently completing my **Master's in Da
 
 > My research focuses on **power law distributions**, **small-world network properties**, **geospatial vulnerability**, and **network resilience under systemic shocks**.
 
+[![Read Earthquake Paper](https://img.shields.io/badge/Read_Paper-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/393362033_Earthquake_Pattern_Analysis_Using_Clustering_Forecasting_and_Machine_Learning_A_Global_Study_1960-2023)
+[![Live Earthquake Heatmap](https://img.shields.io/badge/🌋_Live_Heatmap-GitHub_Pages-238636?style=flat-square)](https://harsh-stack.github.io/Earthquake-Pattern-Analysis/Earthquake_Heatmap.html)
+[![Earthquake Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/harsh-stack/Earthquake-Pattern-Analysis)
+
 ---
 
 ## 🚀 Featured Projects
@@ -50,9 +47,10 @@ I'm a **Data Scientist and Researcher** currently completing my **Master's in Da
 - **Stack:** Python, SimPy, Pandas, Plotly
 
 ### 🌋 Earthquake Pattern Prediction
-- Statistical and ML-based analysis of seismic activity patterns
+- Statistical and ML-based analysis of seismic activity patterns (28,113 records, 1960–2023)
 - Published findings with 162+ reads on ResearchGate
-- **Stack:** Python, Scikit-learn, Matplotlib, Seaborn
+- Interactive live heatmap deployed on GitHub Pages
+- **Stack:** Python, Scikit-learn, Folium, GeoPandas, Matplotlib, Seaborn
 
 ### 🗄️ Database Design Projects
 - Designed normalized relational schemas for Company/Employee systems
@@ -86,20 +84,15 @@ I'm a **Data Scientist and Researcher** currently completing my **Master's in Da
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-stack&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-stack&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-stack&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh-stack&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-stack&layout=compact&hide_border=true&theme=default)
 
 ---
 
@@ -130,7 +123,4 @@ I'm a **Data Scientist and Researcher** currently completing my **Master's in Da
 
 ---
 
-<p align="center">
-  <i>"Networks are not just structure — they are the fingerprint of how the world connects."</i>
-</p>
-]]>
+> *"Networks are not just structure — they are the fingerprint of how the world connects."*
