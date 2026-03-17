@@ -22,10 +22,9 @@ I'm a **Data Scientist and Researcher** currently completing my **Master's in Da
 
 | Title | Platform | Reads |
 |-------|----------|-------|
-| 🌍 Global Trade Network Structure and Resilience *(in progress)* | ResearchGate | 199+ |
-| 🌋 Earthquake Pattern Analysis & Prediction | ResearchGate | 162+ |
+| 🌋 Earthquake Pattern Analysis Using Clustering, Forecasting & ML: A Global Study (1960–2023) | ResearchGate · LinkedIn | 200+ |
 
-> My research focuses on **power law distributions**, **small-world network properties**, **geospatial vulnerability**, and **network resilience under systemic shocks**.
+> My research focuses on **seismic pattern recognition**, **geospatial risk classification**, **clustering algorithms**, and **ML-based forecasting** applied to global earthquake data.
 
 [![Read Earthquake Paper](https://img.shields.io/badge/Read_Paper-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/393362033_Earthquake_Pattern_Analysis_Using_Clustering_Forecasting_and_Machine_Learning_A_Global_Study_1960-2023)
 [![Live Earthquake Heatmap](https://img.shields.io/badge/🌋_Live_Heatmap-GitHub_Pages-238636?style=flat-square)](https://harsh-stack.github.io/Earthquake-Pattern-Analysis/Earthquake_Heatmap.html)
