@@ -13,7 +13,7 @@ I'm a **Data Scientist and Researcher** currently completing my **Master's in Da
 - 🔭 Currently working on my **thesis**: *Global Trade Network Structure and Resilience* — analyzing 34 years of UN Comtrade data (1988–2022) to study network evolution, systemic shocks, and climate-resilient trade systems.
 - 🌱 Actively exploring **Geospatial Computer Science**, **quantitative research methods**, and **AI-driven supply chain optimization**.
 - 💼 Open to roles as a **Data Scientist**, **Supply Chain Analyst**, or **Quantitative Research Analyst**.
-- 📍 Based in **North Dartmouth, MA, USA** | F-1 Visa | STEM OPT eligible.
+- 📍 Based in **North Dartmouth, MA, USA** | F-1 Visa | **STEM OPT eligible** | **Open to Relocate.**
 
 ---
 
