@@ -46,7 +46,7 @@ I'm a **Data Scientist and Researcher** currently completing my **Master's in Da
 
 ### 🌋 Earthquake Pattern Prediction
 - Statistical and ML-based analysis of seismic activity patterns (28,113 records, 1960–2023)
-- Published findings with 162+ reads on ResearchGate
+- Published findings with 200+ reads and 1 Citation on ResearchGate
 - Interactive live heatmap deployed on GitHub Pages
 - **Stack:** Python, Scikit-learn, Folium, GeoPandas, Matplotlib, Seaborn
 
