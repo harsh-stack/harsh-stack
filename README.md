@@ -1,6 +1,6 @@
 # Hi, I'm Harsh Malviya 👋
 
-**MS Data Science @ UMass Dartmouth  |  Geospatial • Network Analysis • ML  |  Published Researcher  |  PhD Applicant**
+**MS Data Science @ UMass Dartmouth | Data Scientist | Geospatial & Network Analytics | Published Researcher**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harsh-stack&style=flat-square&color=blue)
 
@@ -8,82 +8,117 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Data Scientist and Researcher** currently completing my **Master's in Data Science** at the University of Massachusetts Dartmouth (Spring 2026). My work sits at the intersection of **network science**, **geospatial analytics**, and **supply chain resilience**.
+I'm a Data Science graduate student at the **University of Massachusetts Dartmouth**, with experience in **data analysis, visualization, machine learning, and network-based modeling**.
 
-- 🔭 Currently working on my **thesis**: *Global Trade Network Structure and Resilience* — analyzing 34 years of UN Comtrade data (1988–2022) to study network evolution, systemic shocks, and climate-resilient trade systems.
-- 🌱 Actively exploring **Geospatial Computer Science**, **quantitative research methods**, and **AI-driven supply chain optimization**.
-- 💼 Open to roles as a **Data Scientist**, **Supply Chain Analyst**, or **Quantitative Research Analyst**.
-- 📍 Based in **North Dartmouth, MA, USA** | F-1 Visa | **STEM OPT eligible** | **Open to Relocate.**
+My work focuses on **geospatial analytics**, **small-world trade networks**, **supply chain resilience**, and applied **machine learning**.
+
+- 🔭 Currently working on my **master’s thesis**: **World Trade Data Report**, modeling **35 years of UN Comtrade data (1988–2022)** as small-world supply chain networks across **238 countries and 16,000+ links**.
+- 🌍 Interested in **geospatial data science**, **network analysis**, **risk modeling**, and **AI-driven analytics**.
+- 💼 Open to roles in **Data Science**, **Geospatial Data Science**, **Network Analysis**, and **Supply Chain Analytics**.
+- 📍 Based in **Dartmouth, Massachusetts, USA** | **F-1 student with 12-month OPT + 24-month STEM OPT eligibility**.
 
 ---
 
 ## 🔬 Research & Publications
 
-| Title | Platform | Reads |
-|-------|----------|-------|
-| 🌋 Earthquake Pattern Analysis Using Clustering, Forecasting & ML: A Global Study (1960–2023) | ResearchGate · LinkedIn | 200+ |
+### Earthquake Pattern Analysis Using Clustering, Forecasting & Machine Learning
+Published in a **peer-reviewed journal** as a **global study (1960–2023)**.
 
-> My research focuses on **seismic pattern recognition**, **geospatial risk classification**, **clustering algorithms**, and **ML-based forecasting** applied to global earthquake data.
+- Applied clustering algorithms and time-series forecasting to earthquake data across **100+ geographic regions**.
+- Achieved **about 85% accuracy** in identifying high-risk regions.
 
-[![Read Earthquake Paper](https://img.shields.io/badge/Read_Paper-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/393362033_Earthquake_Pattern_Analysis_Using_Clustering_Forecasting_and_Machine_Learning_A_Global_Study_1960-2023)
-[![Live Earthquake Heatmap](https://img.shields.io/badge/🌋_Live_Heatmap-GitHub_Pages-238636?style=flat-square)](https://harsh-stack.github.io/Earthquake-Pattern-Analysis/Earthquake_Heatmap.html)
-[![Earthquake Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/harsh-stack/Earthquake-Pattern-Analysis)
+[![Read Paper](https://img.shields.io/badge/Read_Paper-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/)
+[![Earthquake Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/harsh-stack)
+
+### Small-World Spatial Network Analysis of Global Supply Chains Using International Trade Data (1988–2023)
+**Manuscript in submission** to a peer-reviewed journal in **Supply Chain / Network Science**.
+
+- Models global supply chains as **geospatially embedded small-world networks**.
+- Highlights strong regional clustering and asymmetric vulnerability under targeted disruptions.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌐 Global Trade Network Simulation
-- Modeled 34+ years of trade data using **UN Comtrade** datasets
-- Analyzed **small-world properties**, clustering coefficients, and path lengths across trade networks
-- Built network resilience metrics to evaluate climate and geopolitical shocks
-- **Stack:** Python, NetworkX, GeoPandas, Pandas, Matplotlib
+### 🌐 World Trade Data Report (Master’s Thesis)
+- Modeled **35 years of UN Comtrade data (1988–2022)** as small-world supply chain networks.
+- Studied **238 countries** and **16,000+ links**.
+- Confirmed **8/9 hypotheses**, including **80% fragmentation from China hub removal** and **Asia-Pacific clustering with C = 0.91**.
+- **Stack:** Python, NetworkX, GeoPandas, Supply Chain, Network Resilience
 
-### 📦 Supply Chain Network Simulation
-- Discrete-event simulation of supply chain flows using **SimPy**
-- Modeled disruption scenarios and recovery metrics for multi-tier networks
-- **Stack:** Python, SimPy, Pandas, Plotly
+### 🖥️ Linux CPU Scheduling Analysis
+- Conducted a data-driven analysis of Linux **CFS scheduling** using `top`, `ps`, and `pidstat` on Ubuntu.
+- Compared real scheduler behavior and CPU utilization patterns against textbook algorithms using Python analytics and visualizations.
+- **Stack:** Python, Linux, Performance Analysis, Operating Systems
 
-### 🌋 Earthquake Pattern Prediction
-- Statistical and ML-based analysis of seismic activity patterns (28,113 records, 1960–2023)
-- Published findings with 200+ reads and 1 Citation on ResearchGate
-- Interactive live heatmap deployed on GitHub Pages
-- **Stack:** Python, Scikit-learn, Folium, GeoPandas, Matplotlib, Seaborn
+### 🗄️ University Database Design (Relational Data Modeling)
+- Designed and implemented a fully normalized relational database for a university/company scenario.
+- Built **ER diagrams**, enforced integrity constraints, and wrote complex SQL queries, views, and stored procedures.
+- **Stack:** SQL, Database Design, ER Modeling, Normalization, Stored Procedures
 
-### 🗄️ Database Design Projects
-- Designed normalized relational schemas for Company/Employee systems
-- Implemented advanced SQL queries, stored procedures, and optimization strategies
-- **Stack:** MySQL, SQL Server, MySQL Workbench
+### 🌋 Earthquake Dataset Analysis
+- Applied clustering and time-series forecasting to global earthquake data.
+- Identified seismic hotspots and achieved **about 85% accuracy** on high-risk regions.
+- **Stack:** Python, Machine Learning, Geospatial Analysis, Risk Assessment
+
+### 🎨 Drawing Web Application
+- Built a browser-based drawing tool and automated regression tests using Selenium IDE.
+- Focused on functionality and performance validation.
+- **Stack:** JavaScript, Selenium IDE, Web Development, Automated Testing
+
+### 🔐 Cyber Attack Analysis
+- Analyzed recent cyber-attacks using data mining methods.
+- Quantified business impact and proposed mitigation strategies.
+- **Stack:** Python, Data Mining, Cybersecurity, Risk Analysis
+
+---
+
+## 📂 Repository Snapshot
+
+This section is ready for future automation through GitHub Actions.
+
+<!--START_SECTION:repos-->
+- World Trade Data Report
+- Linux CPU Scheduling Analysis
+- University Database Design
+- Earthquake Dataset Analysis
+- Drawing Web Application
+- Cyber Attack Analysis
+<!--END_SECTION:repos-->
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Data Science & ML**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-4B8BBE?style=flat-square)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139E5A?style=flat-square)
-
-**Tools & Platforms**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=flat-square)
+![SAS](https://img.shields.io/badge/SAS-1E4C9A?style=flat-square)
+
+### Data Tools
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Qlik](https://img.shields.io/badge/Qlik-009845?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+
+### AI / ML
+![Generative AI](https://img.shields.io/badge/Generative%20AI-6E56CF?style=flat-square)
+![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-0A66C2?style=flat-square)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-8E44AD?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-16A085?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+### Other Tools
+![Selenium IDE](https://img.shields.io/badge/Selenium%20IDE-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-4A90E2?style=flat-square)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-7D3C98?style=flat-square)
+![ETL Processes](https://img.shields.io/badge/ETL%20Processes-2C3E50?style=flat-square)
+![Debugging](https://img.shields.io/badge/Debugging-E74C3C?style=flat-square)
 
 ---
 
@@ -98,18 +133,19 @@ I'm a **Data Scientist and Researcher** currently completing my **Master's in Da
 
 | Degree | Institution | Year |
 |--------|-------------|------|
-| 🎓 MS in Data Science | University of Massachusetts Dartmouth | 2024–2026 |
-| 🏫 B.Tech (CGPA: 7.91) | Chameli Devi Group of Institutions, India | 2019–2023 |
+| MS in Data Science | University of Massachusetts Dartmouth | 2024–Present |
+| B.Tech in Computer Science Engineering | Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal, India | 2019–2023 |
 
 ---
 
-## 🌟 Interests & Goals
+## 🌟 Interests
 
-- 🔍 PhD in **Geospatial Computer Science**, Computer Science, or Statistics
-- 📈 Quantitative Research & Algorithmic Trading concepts
-- 🌍 Climate-resilient supply chain systems
-- 🧠 AI hallucination mitigation and fact-checking in LLMs
-- 📡 Network science applications in real-world economic systems
+- Geospatial Data Science
+- Network Science
+- Supply Chain Resilience
+- Quantitative Research
+- Risk Modeling
+- Applied Machine Learning
 
 ---
 
@@ -117,8 +153,9 @@ I'm a **Data Scientist and Researcher** currently completing my **Master's in Da
 
 - 🌐 Portfolio: [harshmalviya.com](https://harshmalviya.com)
 - 💼 LinkedIn: [linkedin.com/in/harsh-malviya](https://www.linkedin.com/in/harsh-malviya/)
-- 📧 Email: [harsh.alokmalviya@gmail.com](mailto:harsh.alokmalviya1@gmail.com)
+- 📧 Email: [hmalviya1@umassd.edu](mailto:hmalviya1@umassd.edu)
+- 📧 Email: [harsh.alokmalviya@gmail.com](mailto:harsh.alokmalviya@gmail.com)
 
 ---
 
-> *"Networks are not just structure — they are the fingerprint of how the world connects."*
+> *Using network science and geospatial analytics to study how complex systems connect, fail, and recover.*
