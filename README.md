@@ -12,7 +12,7 @@ I'm a Data Science graduate student at the **University of Massachusetts Dartmou
 
 My work focuses on **geospatial analytics**, **small-world trade networks**, **supply chain resilience**, and applied **machine learning**.
 
-- 🔭 Currently working on my **master’s thesis**: **World Trade Data Report**, modeling **35 years of UN Comtrade data (1988–2022)** as small-world supply chain networks across **238 countries and 16,000+ links**.
+- 🔭 Currently working on my **master's thesis**: **World Trade Data Report**, modeling **35 years of UN Comtrade data (1988–2022)** as small-world supply chain networks across **238 countries and 16,000+ links**.
 - 🌍 Interested in **geospatial data science**, **network analysis**, **risk modeling**, and **AI-driven analytics**.
 - 💼 Open to roles in **Data Science**, **Geospatial Data Science**, **Network Analysis**, and **Supply Chain Analytics**.
 - 📍 Based in **Dartmouth, Massachusetts, USA** | **F-1 student with 12-month OPT + 24-month STEM OPT eligibility**.
@@ -27,7 +27,7 @@ Published in a **peer-reviewed journal** as a **global study (1960–2023)**.
 - Applied clustering algorithms and time-series forecasting to earthquake data across **100+ geographic regions**.
 - Achieved **about 85% accuracy** in identifying high-risk regions.
 
-[![Read Paper](https://www.researchgate.net/publication/393362033_Earthquake_Pattern_Analysis_Using_Clustering_Forecasting_and_Machine_Learning_A_Global_Study_1960-2023)
+[![Read Paper](https://img.shields.io/badge/Read_Paper-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/393362033_Earthquake_Pattern_Analysis_Using_Clustering_Forecasting_and_Machine_Learning_A_Global_Study_1960-2023)
 [![Earthquake Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/harsh-stack)
 
 ### Small-World Spatial Network Analysis of Global Supply Chains Using International Trade Data (1988–2023)
@@ -40,7 +40,7 @@ Published in a **peer-reviewed journal** as a **global study (1960–2023)**.
 
 ## 🚀 Featured Projects
 
-### 🌐 World Trade Data Report (Master’s Thesis)
+### 🌐 World Trade Data Report (Master's Thesis)
 - Modeled **35 years of UN Comtrade data (1988–2022)** as small-world supply chain networks.
 - Studied **238 countries** and **16,000+ links**.
 - Confirmed **8/9 hypotheses**, including **80% fragmentation from China hub removal** and **Asia-Pacific clustering with C = 0.91**.
