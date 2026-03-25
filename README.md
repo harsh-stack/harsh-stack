@@ -27,7 +27,7 @@ Published in a **peer-reviewed journal** as a **global study (1960–2023)**.
 - Applied clustering algorithms and time-series forecasting to earthquake data across **100+ geographic regions**.
 - Achieved **about 85% accuracy** in identifying high-risk regions.
 
-[![Read Paper](https://img.shields.io/badge/Read_Paper-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/)
+[![Read Paper](https://www.researchgate.net/publication/393362033_Earthquake_Pattern_Analysis_Using_Clustering_Forecasting_and_Machine_Learning_A_Global_Study_1960-2023)
 [![Earthquake Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/harsh-stack)
 
 ### Small-World Spatial Network Analysis of Global Supply Chains Using International Trade Data (1988–2023)
