@@ -40,31 +40,35 @@ Published in a **peer-reviewed journal** as a **global study (1960–2023)**.
 
 ## 🚀 Featured Projects
 
-### 🌐 World Trade Data Report (Master's Thesis)
-- Modeled **35 years of UN Comtrade data (1988–2022)** as small-world supply chain networks.
-- Studied **238 countries** and **16,000+ links**.
-- Confirmed **8/9 hypotheses**, including **80% fragmentation from China hub removal** and **Asia-Pacific clustering with C = 0.91**.
-- **Stack:** Python, NetworkX, GeoPandas, Supply Chain, Network Resilience
+**🌐 World Trade Data Report — Master's Thesis**
+Modeled 35 years of UN Comtrade data as small-world supply chain networks. Confirmed 8/9 hypotheses including 80% fragmentation from China hub removal and Asia-Pacific clustering with C = 0.91.
+`Python` `NetworkX` `GeoPandas` `Network Resilience` `Supply Chain`
+[View Repo](https://github.com/harsh-stack/TradeNetworkAnalysis)
 
-### 🖥️ Linux CPU Scheduling Analysis
-- Conducted a data-driven analysis of Linux **CFS scheduling** using `top`, `ps`, and `pidstat` on Ubuntu.
-- Compared real scheduler behavior and CPU utilization patterns against textbook algorithms using Python analytics and visualizations.
-- **Stack:** Python, Linux, Performance Analysis, Operating Systems
+**🌋 Earthquake Pattern Analysis**
+ML-based seismic risk classification using Random Forest & Decision Tree across 27,696 earthquakes. Achieved 87.4% accuracy in high-risk zone identification.
+`Python` `Machine Learning` `Geospatial Analysis` `Risk Assessment`
+[View Repo](https://github.com/harsh-stack/Earthquake-Pattern-Analysis)
 
-### 🗄️ University Database Design (Relational Data Modeling)
-- Designed and implemented a fully normalized relational database for a university/company scenario.
-- Built **ER diagrams**, enforced integrity constraints, and wrote complex SQL queries, views, and stored procedures.
-- **Stack:** SQL, Database Design, ER Modeling, Normalization, Stored Procedures
+**📊 SQL Schema Performance Benchmarking**
+Benchmarked raw vs normalized MySQL schemas across 1MB–100MB datasets. Measured 91% query speedup on selective queries; identified aggregation tradeoffs with Python visualization.
+`Python` `MySQL` `Shell` `Database Design` `Performance Analysis`
+[View Repo](https://github.com/harsh-stack/SQL-Performance-Benchmarking)
 
-### 🌋 Earthquake Dataset Analysis
-- Applied clustering and time-series forecasting to global earthquake data.
-- Identified seismic hotspots and achieved **about 85% accuracy** on high-risk regions.
-- **Stack:** Python, Machine Learning, Geospatial Analysis, Risk Assessment
+**🔐 Cyber Attack Analysis**
+Data mining analysis of 10 years of cyber-attacks — statistical loss trends (~$50M mean), correlation matrices, and ML-based breach prediction.
+`Python` `Data Mining` `Cybersecurity` `Risk Analysis`
+[View Repo](https://github.com/harsh-stack/Cyber-Attack-Analysis)
 
-### 🔐 Cyber Attack Analysis
-- Analyzed recent cyber-attacks using data mining methods.
-- Quantified business impact and proposed mitigation strategies.
-- **Stack:** Python, Data Mining, Cybersecurity, Risk Analysis
+**🖥️ Linux CPU Scheduling Analysis**
+Data-driven analysis of Linux CFS scheduling using live pidstat, ps, and top monitoring. Compared real scheduler behavior against textbook algorithms with Python analytics.
+`Python` `Linux` `Performance Analysis` `Operating Systems`
+[View Repo](https://github.com/harsh-stack/Linux-CPU-Scheduling-Analysis-CIS-573-OS-Project-)
+
+**🗄️ University ERD Schema Design**
+Full ER → logical → physical university database modeled in ERwin. 6 entities, 9 relationships including M:N resolution, referential integrity triggers, and production-ready SQL Server DDL.
+`SQL` `ERwin` `ER Modeling` `Database Design` `SQL Server`
+[View Repo](https://github.com/harsh-stack/Database-Design)
 
 ---
 
