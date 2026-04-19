@@ -8,14 +8,14 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Data Science graduate student at the **University of Massachusetts Dartmouth**, with experience in **data analysis, visualization, machine learning, and network-based modeling**.
 
-My work focuses on **geospatial analytics**, **small-world trade networks**, **supply chain resilience**, and applied **machine learning**.
+Data Science graduate student at the University of Massachusetts Dartmouth with 1.5+ years of experience in data analysis, machine learning, and network-based modeling.
 
-- 🔭 Currently working on my **master's thesis**: **World Trade Data Report**, modeling **35 years of UN Comtrade data (1988–2022)** as small-world supply chain networks across **238 countries and 16,000+ links**.
-- 🌍 Interested in **geospatial data science**, **network analysis**, **risk modeling**, and **AI-driven analytics**.
-- 💼 Open to roles in **Data Science**, **Geospatial Data Science**, **Network Analysis**, and **Supply Chain Analytics**.
-- 📍 Based in **Dartmouth, Massachusetts, USA** | **F-1 student with 12-month OPT + 24-month STEM OPT eligibility**.
+- 🔭 Master's thesis: Modeling 35 years of UN Comtrade data (1988–2022) as small-world supply chain networks across 238 countries and 16,000+ links
+- 📄 Published researcher — peer-reviewed journal paper on earthquake pattern analysis
+- 🌍 Specializing in geospatial analytics, network science, supply chain resilience, and applied ML
+- 💼 Open to Data Scientist, Data Analyst, and Geospatial Analytics roles
+- 📍 Dartmouth, MA | F-1 OPT eligible — 12-month OPT + 24-month STEM extension (3 years total)
 
 ---
 
