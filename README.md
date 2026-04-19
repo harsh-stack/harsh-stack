@@ -61,11 +61,6 @@ Published in a **peer-reviewed journal** as a **global study (1960–2023)**.
 - Identified seismic hotspots and achieved **about 85% accuracy** on high-risk regions.
 - **Stack:** Python, Machine Learning, Geospatial Analysis, Risk Assessment
 
-### 🎨 Drawing Web Application
-- Built a browser-based drawing tool and automated regression tests using Selenium IDE.
-- Focused on functionality and performance validation.
-- **Stack:** JavaScript, Selenium IDE, Web Development, Automated Testing
-
 ### 🔐 Cyber Attack Analysis
 - Analyzed recent cyber-attacks using data mining methods.
 - Quantified business impact and proposed mitigation strategies.
