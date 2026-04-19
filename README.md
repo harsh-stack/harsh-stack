@@ -30,9 +30,8 @@ Published in a **peer-reviewed journal** as a **global study (1960–2023)** | 2
 [![Read Paper](https://img.shields.io/badge/Read_Paper-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/393362033_Earthquake_Pattern_Analysis_Using_Clustering_Forecasting_and_Machine_Learning_A_Global_Study_1960-2023)
 [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harsh-stack/Earthquake-Pattern-Analysis)
 
----
 
-### Small-World Spatial Network Analysis of Global Supply Chains (1988–2023)
+### Small-World Spatial Network Analysis of Global Supply Chains (1988–2022)
 **Manuscript in submission** to a peer-reviewed journal in **Supply Chain / Network Science**
 
 - Models global supply chains as **geospatially embedded small-world networks** across 238 countries
