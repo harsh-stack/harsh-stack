@@ -22,20 +22,22 @@ Data Science graduate student at the University of Massachusetts Dartmouth with 
 ## 🔬 Research & Publications
 
 ### Earthquake Pattern Analysis Using Clustering, Forecasting & Machine Learning
-Published in a **peer-reviewed journal** as a **global study (1960–2023)**.
+Published in a **peer-reviewed journal** as a **global study (1960–2023)** | 200+ reads on ResearchGate
 
-- Applied clustering algorithms and time-series forecasting to earthquake data across **100+ geographic regions**.
-- Achieved **about 85% accuracy** in identifying high-risk regions.
+- Applied K-Means clustering and ARIMA forecasting to earthquake data across **100+ geographic regions**
+- Achieved **85% accuracy** in high-risk zone identification across **27,696 seismic events**
 
 [![Read Paper](https://img.shields.io/badge/Read_Paper-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/393362033_Earthquake_Pattern_Analysis_Using_Clustering_Forecasting_and_Machine_Learning_A_Global_Study_1960-2023)
-[![Earthquake Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/harsh-stack/Earthquake-Pattern-Analysis)
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harsh-stack/Earthquake-Pattern-Analysis)
 
-### Small-World Spatial Network Analysis of Global Supply Chains Using International Trade Data (1988–2023)
-**Manuscript in submission** to a peer-reviewed journal in **Supply Chain / Network Science**.
+---
 
-- Models global supply chains as **geospatially embedded small-world networks**.
-- Highlights strong regional clustering and asymmetric vulnerability under targeted disruptions.
+### Small-World Spatial Network Analysis of Global Supply Chains (1988–2023)
+**Manuscript in submission** to a peer-reviewed journal in **Supply Chain / Network Science**
 
+- Models global supply chains as **geospatially embedded small-world networks** across 238 countries
+- Key finding: **80% network fragmentation** from removal of top hub (China)
+- Strong regional clustering confirmed — Asia-Pacific **C = 0.91**
 ---
 
 ## 🚀 Featured Projects
