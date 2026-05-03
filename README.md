@@ -41,6 +41,11 @@ Published in a **peer-reviewed journal** as a **global study (1960–2023)** | 2
 
 ## 🚀 Featured Projects
 
+**🧠 SW‑KG: Small‑World Knowledge Graph for Multi‑Agent LLMs**
+A novel memory architecture combining small‑world topology, hub‑based compression, and token‑economy scoring. Enables multi‑agent LLM systems to scale with O(log N) retrieval and 40–60% token reduction.
+`Python` `NetworkX` `LLM Systems` `Memory Architectures` `Research`
+[View Repo](https://github.com/harsh-stack/swkg)
+
 **🌐 World Trade Data Report — Master's Thesis**
 Modeled 35 years of UN Comtrade data as small-world supply chain networks. Confirmed 8/9 hypotheses including 80% fragmentation from China hub removal and Asia-Pacific clustering with C = 0.91.
 `Python` `NetworkX` `GeoPandas` `Network Resilience` `Supply Chain`
