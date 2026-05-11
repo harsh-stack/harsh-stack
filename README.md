@@ -8,44 +8,74 @@
 
 ## 🧑‍💻 About Me
 
+AI and data science researcher at the University of Massachusetts Dartmouth with focus on multi-agent systems, network science, and geospatial analytics. Working under the supervision of Prof. Firas Khatib.
 
-Data Science graduate student at the University of Massachusetts Dartmouth with 1.5+ years of experience in data analysis, machine learning, and network-based modeling.
-
-- 🔭 Master's thesis: Modeling 35 years of UN Comtrade data (1988–2022) as small-world supply chain networks across 238 countries and 16,000+ links
-- 📄 Published researcher — peer-reviewed journal paper on earthquake pattern analysis
-- 🌍 Specializing in geospatial analytics, network science, supply chain resilience, and applied ML
-- 💼 Open to Data Scientist, Data Analyst, and Geospatial Analytics roles
-- 📍 Dartmouth, MA | F-1 OPT eligible — 12-month OPT + 24-month STEM extension (3 years total)
+- 🤖 **AI Innovation:** Co-developed SW-KG (Small-World Knowledge Graph) — a novel multi-agent coordination architecture with formal complexity proofs and empirical results showing significant token reduction and speedup
+- 🔭 **Master's Thesis:** Modeling 35 years of UN Comtrade data (1988–2022) as small-world supply chain networks across 238 countries and 16,347 links — confirmed 8/9 hypotheses under the SCNE framework
+- 📄 **Published Researcher:** Peer-reviewed paper on earthquake pattern analysis using K-Means, DBSCAN, and SARIMA forecasting (QUEST Journals, 199+ reads on ResearchGate)
+- 🌍 Specializing in multi-agent AI systems, network science, geospatial analytics, supply chain resilience, and applied research
+- 💼 Open to AI Research, Data Science, Applied Research, Geospatial Analytics, and Supply Chain Risk Analysis roles
+- 🎯 Particularly interested in international organizations (ITC Geneva, World Bank, UNCTAD) and AI research positions
+- 📍 Dartmouth, MA | F-1 OPT eligible (July 2026) — 12-month OPT + 24-month STEM extension (3 years total)
 
 ---
 
 ## 🔬 Research & Publications
 
 ### Earthquake Pattern Analysis Using Clustering, Forecasting & Machine Learning
-Published in a **peer-reviewed journal** as a **global study (1960–2023)** | 200+ reads on ResearchGate
+**Published in QUEST Journals | Peer-Reviewed | Global Study (1960–2023) | 199+ Reads**
 
-- Applied K-Means clustering and ARIMA forecasting to earthquake data across **100+ geographic regions**
-- Achieved **85% accuracy** in high-risk zone identification across **27,696 seismic events**
+Applied machine learning and time-series forecasting to analyze 27,696 seismic events across 100+ geographic regions worldwide.
+
+**Key Results:**
+- 🎯 **85% Accuracy** in high-risk zone identification using K-Means clustering and DBSCAN
+- 📊 **SARIMA Forecasting:** Time-series analysis for earthquake pattern prediction
+- 🌍 **Global Coverage:** Comprehensive analysis across multiple continents and tectonic zones
+- 📈 **Research Impact:** 199+ reads on ResearchGate
 
 [![Read Paper](https://img.shields.io/badge/Read_Paper-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/publication/393362033_Earthquake_Pattern_Analysis_Using_Clustering_Forecasting_and_Machine_Learning_A_Global_Study_1960-2023)
 [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harsh-stack/Earthquake-Pattern-Analysis)
 
+---
 
-### Small-World Spatial Network Analysis of Global Supply Chains (1988–2022)
-**Manuscript in submission** to a peer-reviewed journal in **Supply Chain / Network Science**
+### Global Trade Network Analysis: 35 Years of Supply Chain Evolution (1988–2022)
+**Master's Thesis | Network Science & Computational Simulation**  
+**Defense: May 18, 2026 | Expected Graduation: June 2026**
 
-- Models global supply chains as **geospatially embedded small-world networks** across 238 countries
-- Key finding: **80% network fragmentation** from removal of top hub (China)
-- Strong regional clustering confirmed — Asia-Pacific **C = 0.91**
+Comprehensive analysis of global trade networks using 35 years of UN Comtrade bilateral data across 238 countries (nodes) and 16,347 trade relationships (edges) over nine 4-year intervals.
+
+**Key Findings:**
+- ✅ **8/9 Hypotheses Confirmed** under the Spatially Constrained Network Evolution (SCNE) framework
+- 🌐 **Small-World Properties Validated:** High clustering (C=0.91 in Asia-Pacific) with short path lengths
+- ⚠️ **Hub Resilience Asymmetry:** 80% network fragmentation from China hub removal vs. minimal impact from other hubs
+- 📈 **Regionalization Trends:** Increasing regional clustering over time (1988-2022)
+- 🔄 **Cascade Simulation:** Modeled supply chain disruption propagation across network intervals
+
+**Methodology:** NetworkX, GeoPandas, computational simulation, geospatial analysis, hypothesis testing
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harsh-stack/TradeNetworkAnalysis)
+
 ---
 
 ## 🚀 Featured Projects
 
-**🧠 SW‑KG: Small‑World Knowledge Graph for Multi‑Agent LLMs**
-A novel memory architecture combining small‑world topology, hub‑based compression, and token‑economy scoring. Enables multi‑agent LLM systems to scale with O(log N) retrieval and 40–60% token reduction.
-`Python` `NetworkX` `LLM Systems` `Memory Architectures` `Research`
-[View Repo](https://github.com/harsh-stack/swkg)
+### 🧠 SW-KG: Small-World Knowledge Graph for Multi-Agent LLMs
+**Novel AI Research Project | Formal Complexity Proofs & Empirical Results**
 
+A breakthrough memory architecture that replaces full-history context accumulation in LLM systems with a shared knowledge graph using **Watts-Strogatz small-world topology** and a **token economy**.
+
+**Key Contributions:**
+- 🧠 **Novel Architecture:** Hub-based compression with small-world connectivity for efficient agent coordination
+- 📊 **Empirical Results:** Significant token reduction (40-60%) and speedup in multi-agent tasks
+- 📐 **Formal Analysis:** Complexity proofs showing O(log N) retrieval vs O(N) in full-history systems
+- 🔬 **Rigorous Validation:** Ablation studies confirming architectural design choices
+- 🎯 **Real-world Application:** Tested on complex multi-agent coordination scenarios
+
+Complete research project with formal proofs, empirical results, and ablation studies.
+
+`Python` `NetworkX` `LangChain` `Multi-Agent AI` `Knowledge Graphs` `LLM Systems`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harsh-stack/swkg)
 **🌐 World Trade Data Report — Master's Thesis**
 Modeled 35 years of UN Comtrade data as small-world supply chain networks. Confirmed 8/9 hypotheses including 80% fragmentation from China hub removal and Asia-Pacific clustering with C = 0.91.
 `Python` `NetworkX` `GeoPandas` `Network Resilience` `Supply Chain`
@@ -83,11 +113,12 @@ Full ER → logical → physical university database modeled in ERwin. 6 entitie
 This section is ready for future automation through GitHub Actions.
 
 <!--START_SECTION:repos-->
-- World Trade Data Report
+- SW-KG: Small-World Knowledge Graph for Multi-Agent LLMs
+- World Trade Network Analysis (Master's Thesis)
+- Earthquake Pattern Analysis (Published Research)
+- SQL Schema Performance Benchmarking
 - Linux CPU Scheduling Analysis
 - University Database Design
-- Earthquake Dataset Analysis
-- Drawing Web Application
 - Cyber Attack Analysis
 <!--END_SECTION:repos-->
 
@@ -95,7 +126,7 @@ This section is ready for future automation through GitHub Actions.
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Core Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -104,26 +135,35 @@ This section is ready for future automation through GitHub Actions.
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=flat-square)
 ![SAS](https://img.shields.io/badge/SAS-1E4C9A?style=flat-square)
 
-### Data Tools
+### Data Science & Network Analysis
+![NetworkX](https://img.shields.io/badge/NetworkX-FF6B6B?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+### Geospatial Tools
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+
+### Visualization & BI
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
 ![Qlik](https://img.shields.io/badge/Qlik-009845?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 
-### AI / ML
-![Generative AI](https://img.shields.io/badge/Generative%20AI-6E56CF?style=flat-square)
-![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-0A66C2?style=flat-square)
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-8E44AD?style=flat-square)
-![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-16A085?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+### AI & LLM Tools
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-4A90E2?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-6E56CF?style=flat-square)
 
 ### Other Tools
-![Selenium IDE](https://img.shields.io/badge/Selenium%20IDE-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-4A90E2?style=flat-square)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-7D3C98?style=flat-square)
-![ETL Processes](https://img.shields.io/badge/ETL%20Processes-2C3E50?style=flat-square)
-![Debugging](https://img.shields.io/badge/Debugging-E74C3C?style=flat-square)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 ---
 
@@ -138,19 +178,24 @@ This section is ready for future automation through GitHub Actions.
 
 | Degree | Institution | Year |
 |--------|-------------|------|
-| MS in Data Science | University of Massachusetts Dartmouth | 2024–Present |
-| B.Tech in Computer Science Engineering | Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal, India | 2019–2023 |
+| **MS in Data Science** | University of Massachusetts Dartmouth | 2024–2026 |
+| **B.Tech in Computer Science Engineering** | Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal, India | 2019–2023 |
+
+**Thesis Advisor:** Prof. Firas Khatib  
+**Defense Date:** May 13, 2026  
+**Expected Graduation:** June 2026
 
 ---
 
-## 🌟 Interests
+## 🌟 Research Interests
 
+- Multi-Agent AI Systems & LLM Architectures
+- Network Science & Small-World Networks
 - Geospatial Data Science
-- Network Science
-- Supply Chain Resilience
-- Quantitative Research
-- Risk Modeling
+- Supply Chain Resilience & Risk Analysis
+- Computational Simulation
 - Applied Machine Learning
+- Time-Series Forecasting
 
 ---
 
@@ -160,7 +205,8 @@ This section is ready for future automation through GitHub Actions.
 - 💼 LinkedIn: [linkedin.com/in/harsh-malviya](https://www.linkedin.com/in/harsh-malviya/)
 - 📧 Email: [hmalviya1@umassd.edu](mailto:hmalviya1@umassd.edu)
 - 📧 Email: [harsh.alokmalviya@gmail.com](mailto:harsh.alokmalviya@gmail.com)
+- 📚 ResearchGate: [View Publications](https://www.researchgate.net/profile/Harsh-Malviya)
 
 ---
 
-> *Using network science and geospatial analytics to study how complex systems connect, fail, and recover.*
+> *Using multi-agent AI, network science, and geospatial analytics to understand how complex systems connect, evolve, and respond to disruption.*
