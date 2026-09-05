@@ -23,7 +23,7 @@ AI and data science researcher at the University of Massachusetts Dartmouth with
 ## 🔬 Research & Publications
 
 ### Earthquake Pattern Analysis Using Clustering, Forecasting & Machine Learning
-**Published in QUEST Journals | Peer-Reviewed | Global Study (1960–2023) | 199+ Reads**
+**Published in QUEST Journals | Peer-Reviewed | Global Study (1960–2023) | 290+ Reads**
 
 Applied machine learning and time-series forecasting to analyze 27,696 seismic events across 100+ geographic regions worldwide.
 
